@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 
-import './dist/css/main.css'
+import './dist/css/main.css';
 import ScrollToTop from './components/scrollToTop.jsx'
 import 'animate.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
